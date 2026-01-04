@@ -11,7 +11,7 @@
 
 ## 🔗 Live Preview
 
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://preetshopco.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Netlify-Live_Demo-00AD9F?style=for-the-badge&logo=netlify&logoColor=white)](https://preetshopco.netlify.app/)
 
 ## 🚀 Key Features
 
@@ -66,4 +66,3 @@ Follow these steps to get a local copy of the project up and running:
 | **Technical Skills** | HTML, CSS, SCSS, JavaScript, Bootstrap, Java, and C                           |
 | **GitHub**           | [github.com/kumawatpreetam](https://github.com/kumawatpreetam)                |
 | **LinkedIn**         | [linkedin.com/in/kumawatpreetam](https://www.linkedin.com/in/kumawatpreetam/) |
-| **Live Preview**     | [**View Project on Netlify**](https://preetshopco.netlify.app/) 🚀            |
