@@ -2,16 +2,12 @@
 
 **SHOP.CO** is a high-performance, fully responsive e-commerce landing page. This project demonstrates advanced frontend techniques, including a custom-built touch-responsive review slider, modular SCSS architecture, and dynamic UI state management.
 
----
-
 ## 📸 Screenshots
 
 | Desktop View                             | Mobile View                              |
 | :--------------------------------------- | :--------------------------------------- |
 | ![Desktop Preview](./screenshoot/01.jpg) | ![Mobile Preview](./screenshoot/m02.jpg) |
 | ![Desktop Preview](./screenshoot/02.jpg) | ![Mobile Preview](./screenshoot/l01.jpg) |
-
----
 
 ## 🚀 Key Features
 
@@ -24,8 +20,6 @@
 - **Modular Styling:** Built with **SCSS mixins** for buttons and containers, variables for theme consistency, and a mobile-first nested structure.
 - **Modern Navigation:** Implementation of a **Bootstrap 5 Offcanvas** sidebar for mobile users and sleek dropdown menus for desktop browsing.
 
----
-
 ## 🛠️ Tech Stack
 
 - **HTML5:** Semantic markup for optimized SEO and accessibility.
@@ -33,8 +27,6 @@
 - **JavaScript (ES6+):** Custom logic for the review swiper, window resize listeners, and UI state management.
 - **Bootstrap 5:** Grid system, Offcanvas sidebar, and Dropdown components.
 - **Font Awesome:** Integrated for high-quality, scalable vector icons.
-
----
 
 ## 📂 Project Structure
 
@@ -45,10 +37,8 @@
 ├── style.css.map     # Source map for CSS debugging
 ├── index.js          # Core JS logic (Swiper, Touch events, Section toggles)
 └── assets/           # Media assets (Images, Logos, Icons, and Badges)
-└── screenshoot/           # Media assets (Images)
+└── screenshoot/      # Media assets (ScreenshootImages)
 ```
-
----
 
 ## ⚙️ Installation & Setup
 
@@ -63,8 +53,6 @@ Follow these steps to get a local copy of the project up and running:
 2. **Run Locally:**
 
 - Open index.html in your preferred browser. For the best experience, use the Live Server extension in VS Code.
-
----
 
 ## 👨‍💻 Developer Details
 
