@@ -6,9 +6,10 @@
 
 ## 📸 Screenshots
 
-| Desktop View                                                                 | Mobile View                                                                |
-| :--------------------------------------------------------------------------- | :------------------------------------------------------------------------- |
-| ![Desktop Preview](https://via.placeholder.com/600x400?text=Desktop+Preview) | ![Mobile Preview](https://via.placeholder.com/250x500?text=Mobile+Preview) |
+| Desktop View                             | Mobile View                              |
+| :--------------------------------------- | :--------------------------------------- |
+| ![Desktop Preview](./screenshoot/01.jpg) | ![Mobile Preview](./screenshoot/m02.jpg) |
+| ![Desktop Preview](./screenshoot/02.jpg) | ![Mobile Preview](./screenshoot/l01.jpg) |
 
 ---
 
@@ -44,6 +45,7 @@
 ├── style.css.map     # Source map for CSS debugging
 ├── index.js          # Core JS logic (Swiper, Touch events, Section toggles)
 └── assets/           # Media assets (Images, Logos, Icons, and Badges)
+└── screenshoot/           # Media assets (Images)
 
 ---
 
@@ -55,7 +57,7 @@ Follow these steps to get a local copy of the project up and running:
    ```bash
    git clone [https://github.com/kumawatpreetam/shop-co-landing-page.git]```
 
-````
+```
 
 2. **Run Locally:**
 
@@ -71,3 +73,4 @@ Follow these steps to get a local copy of the project up and running:
 | **Technical Skills** | HTML, CSS, SCSS, JavaScript, Bootstrap, Java, and C                           |
 | **GitHub**           | [github.com/kumawatpreetam](https://github.com/kumawatpreetam)                |
 | **LinkedIn**         | [linkedin.com/in/kumawatpreetam](https://www.linkedin.com/in/kumawatpreetam/) |
+````
