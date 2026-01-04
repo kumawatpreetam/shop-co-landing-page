@@ -9,6 +9,10 @@
 | ![Desktop Preview](./screenshoot/01.jpg) | ![Mobile Preview](./screenshoot/m02.jpg) |
 | ![Desktop Preview](./screenshoot/02.jpg) | ![Mobile Preview](./screenshoot/l01.jpg) |
 
+## 🔗 Live Preview
+
+[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://preetshopco.netlify.app/)
+
 ## 🚀 Key Features
 
 - **Custom Review Swiper:** A hand-coded JavaScript slider for customer testimonials featuring:
@@ -62,3 +66,4 @@ Follow these steps to get a local copy of the project up and running:
 | **Technical Skills** | HTML, CSS, SCSS, JavaScript, Bootstrap, Java, and C                           |
 | **GitHub**           | [github.com/kumawatpreetam](https://github.com/kumawatpreetam)                |
 | **LinkedIn**         | [linkedin.com/in/kumawatpreetam](https://www.linkedin.com/in/kumawatpreetam/) |
+| **Live Preview**     | [**View Project on Netlify**](https://preetshopco.netlify.app/) 🚀            |
