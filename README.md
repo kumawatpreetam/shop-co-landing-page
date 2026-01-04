@@ -57,7 +57,7 @@ Follow these steps to get a local copy of the project up and running:
 1. **Clone the Repository:**
 
    ```bash
-   git clone [https://github.com/kumawatpreetam/shop-co-landing-page.git]
+   git clone https://github.com/kumawatpreetam/shop-co-landing-page.git
    ```
 
 2. **Run Locally:**
